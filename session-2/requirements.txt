@@ -1,0 +1,9 @@
+matplotlib
+numpy
+Pillow
+torch
+ray[tune]
+hyperopt
+bayesian-optimization
+pandas
+torchvision

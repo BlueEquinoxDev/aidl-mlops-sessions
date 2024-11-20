@@ -1,0 +1,10 @@
+{
+  "act_func": "leakyrelu",
+  "batch_size": 32.29895820878754,
+  "dropout": 0.2770690579784582,
+  "epochs": 10,
+  "kernel": 5,
+  "learning_rate": 0.0005587727084518315,
+  "log_interval": 10,
+  "neurons": 256
+}
